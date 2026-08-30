@@ -16,8 +16,8 @@ RAG-powered network QA investigation tool for multi-vendor networks.
 
 Run your tests with any framework. When something fails, YANA investigates - it queries live devices, searches protocol specs, follows diagnostic decision trees, and tells you why it failed and what to fix.
 
-**Supported models:**
-- Haiku 4.5, Sonnet 4.6, Opus 4.6 (default, best reasoning)
+**Recommended models:**
+- Opus 4.6+ (1M)
 
 **Documentation:**
 - [**WORKFLOW.md**](metadata/workflow/WORKFLOW.md) - operational flow
@@ -204,8 +204,6 @@ You are responsible for defining your own network inventory and design intent, b
 
 Licensed under [**GNUv3.0**](LICENSE).
 
-## Collaborations
+## Hi
+Wanna say hello? Send me a DM at [**LinkedIn**](https://www.linkedin.com/in/tmihaicatalin/)
 
-Interested in collaborating?
-- **Email:** [**hello@ainoc.dev**](mailto:hello@ainoc.dev)
-- **LinkedIn:** [**LinkedIn**](https://www.linkedin.com/in/tmihaicatalin/)
